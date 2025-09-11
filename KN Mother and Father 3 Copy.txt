@@ -18,7 +18,7 @@ Friend ( s ) Sister ( s )
 14 Priya 
 15 Uma
 16 Nalini 
-17 That Dance Teacher - Durga Miss Dance and Yoga Teacher
+17 That Dance Teacher - Durga Miss Dance and Yoga Teacher Year 2015 , 2016 , 2017 , 2018 , 2019 and 2020
 18 Devi 
 19 Priya Hyd
 20 Daddy
@@ -28,8 +28,13 @@ Friend ( s ) Sister ( s )
 24 Valarmathi
 25 Begum M
 26 Narthana school and college Professor ( s ) / Teacher ( s )
-27 That Lady Delhi or Hyderabad Visit - Year 2013 , 2014 and 2015
+27 * That Lady Delhi or Hyderabad Visit - Year 2013 , 2014 and 2015
 28 Goa Dance That Lady - Year 2002
+29 Kerala Trip - Year 2011 , 2012
+30 * Delhi Trip - Year 2015
+31 US Trip - Year 2013
+32 Africa and Dubai Trip - Year 2015 , 2016 , 2017 , 2018 , 2019 and 2020
+
 
 
 
